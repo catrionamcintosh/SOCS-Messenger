@@ -1,6 +1,6 @@
 # My MERN Web Application
 
-A description of your MERN application, including its purpose, main features, and any other relevant details.
+Messaging platform with multiple boards and channels, user login, and admin roles
 
 ## Table of Contents
 
