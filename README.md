@@ -1,4 +1,4 @@
-# My MERN Web Application
+# SOCS Messenger
 
 Messaging platform with multiple boards and channels, user login, and admin roles
 
